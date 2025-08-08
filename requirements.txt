@@ -1,0 +1,10 @@
+flask
+reportlab
+python-docx
+PyPDF2
+groq
+python-dotenv
+pymupdf
+sentence-transformers
+faiss-cpu
+numpy
